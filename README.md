@@ -1,5 +1,10 @@
 # stern-halma-plus
-AI Player of Stern Halma Plus (2 players, 15 marbles for each)
+AI Player of Sternhalma Plus (2 players, 15 marbles for each)
+
+🎈 What is Sternhalma?
+Sternhalma, commonly known as Chinese checkers or Chinese chequers, is a strategy board game of German origin that can be played by two, three, four, or six people, playing individually or with partners. The game is a modern and simplified variation of the game Halma.
+
+![](img/original_halma.webp)
 
 === Chatbot ChatGPT for WordPress ===
 Contributors: Kognetiks
