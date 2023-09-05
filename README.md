@@ -8,3 +8,5 @@ Sternhalma, commonly known as Chinese checkers or Chinese chequers, is a strateg
 
 🎈 What is Sternhalma Plus?
 Sternhalma Plus is a modified version of Sternhalma, with 2 players and 15 marbles per each player. Sternhalma Plus is only for 2 players, but more interesting and strategical than original version.
+
+![](img/halma_plus.png)
